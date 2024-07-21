@@ -1,0 +1,9 @@
+[submodule "se2-demo-hardhat"]
+	path = se2-demo-hardhat
+	url = https://github.com/JeFlame/se2-demo-hardhat
+[submodule "se2-demo-foundry"]
+	path = se2-demo-foundry
+	url = https://github.com/JeFlame/se2-demo-foundry
+[submodule "se2-demo-none"]
+	path = se2-demo-none
+	url = https://github.com/JeFlame/se2-demo-none
